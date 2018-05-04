@@ -1,7 +1,7 @@
 # smile/Smiley
 
 Smiley was created on Saturday night, just for fun. Done at the beginning of the BIT boot camp and with very basic knowledge set. 
-Starting idea was the utilization of Pythagorean theorem. At first, eye centers were at 1/4-1/4 and 3/4-1/4, but Smiley was a bit squint eyed, so additional calibration had to occur.  
+Starting idea was the utilization of Pythagorean theorem. At first, eye centers were at 1/4-1/4 and 3/4-1/4, but Smiley was a bit squint eyed, so additional calibration had to occur. Function parameters set the size of the Smiley face and width of the line. 
  
  
 Code is intentionally not refactored and the original can be found at my "bit-pp" repositorium.
