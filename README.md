@@ -6,6 +6,6 @@ Starting idea was the utilization of Pythagorean theorem. At first, eye centers 
  
 Code is intentionally not refactored and the original can be found at my "bit-pp" repositorium.
 
-Picture form BIT(Monday morning):
+Picture from BIT(Monday morning):
 
 ![20180213_162512 1](https://user-images.githubusercontent.com/36072848/39609432-2d683882-4f49-11e8-880c-7667f17748db.jpg)
